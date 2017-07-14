@@ -1,4 +1,4 @@
-# Purple-Rain in JS5
+# Purple-Rain in p5.js
 
 ### Coding-Challenge 4
 
